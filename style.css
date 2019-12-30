@@ -10,15 +10,6 @@ body {
     text-align: center;
     font-family: 'Pacifico', cursive;
 }
-/* For Mobile */
-@media screen and (max-width: 540px) {
-    body {
-        background-color: #00a8f3;
-        text-align: center;
-        font-family: 'Pacifico', cursive;
-        transform: translateY(20px);
-    }
-}
 div.game-board{
     width: 604px;
     height: 604px;
